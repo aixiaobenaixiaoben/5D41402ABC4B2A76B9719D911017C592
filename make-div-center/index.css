@@ -1,0 +1,11 @@
+.out {
+  border: 1px red solid;
+  width: 100px;
+  height: 100px;
+}
+
+.in {
+  border: 1px blue solid;
+  width: 40px;
+  height: 40px;
+}
